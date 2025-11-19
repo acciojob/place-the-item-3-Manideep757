@@ -1,4 +1,6 @@
 .holder{
-	display:flex
+	display:flex;
+	justify-content:space-between;
+	
 }
 /* Your CSS Code here. */
